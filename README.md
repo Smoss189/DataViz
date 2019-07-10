@@ -23,7 +23,7 @@ Summer 2019
 # Portfolio
   Here is where you will find all of my data visualization projects.
 
- ### Assignment 1: The Metamorphosis- A Look at the British Labour Party in 2016.
+### Assignment 1: The Metamorphosis- A Look at the British Labour Party in 2016.
 
    Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis (Links to an external site.)
 
