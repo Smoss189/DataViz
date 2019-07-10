@@ -23,12 +23,13 @@ Through this course, I hope to be able to combine my previous art education know
 # Portfolio
 Here is where you will find all of my data visualization projects.
 
-### Assignment 1: A Look at the British Labour Party in 2016.
+### Assignment 1: The Metamorphosis- A Look at the British Labour Party in 2016.
 
 Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis (Links to an external site.)
 
-Redesigned Graph:
+Redesign: 
+I changed the graph based on my primary dislikes of the orginal. By seperating out the party and the individual and making the numbers visable, I felt that this helped to identify what the data was trying to display. 
 
-<iframe title="Average Number of Likes Per Facebook Page post in  2016" aria-label="Bar Chart" id="datawrapper-chart-qEib3" src="//datawrapper.dwcdn.net/qEib3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="355"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+<iframe title="Left - Click " aria-label="Bar Chart" id="datawrapper-chart-qEib3" src="//datawrapper.dwcdn.net/qEib3/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="382"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 
