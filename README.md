@@ -35,3 +35,34 @@ Summer 2019
 <iframe title="Left - Click " aria-label="Bar Chart" id="datawrapper-chart-qEib3" src="//datawrapper.dwcdn.net/qEib3/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="382"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 
+### Assignmnent 2: OIG's report on overcrowding and prolonged detention
+
+#### Part 1: Newspaper version
+
+My target audience for the newspaper version of this report is a general reader with a left leaning perspective. The info is created to accompany a human interest piece focusing on the lack of reasources dentention centers have to support family units. The graphics are to aid the reader in understanding a) the change in aprehensions since 2018 and b) the large number of detainees. The reader is not assumed to have indept knowledge of the topic but is interested in the content.
+
+The aim of the entire infograph is to highlight the increase in family units as well note the lenght of time children are being held. For the donut graphs I chose to use red to grab the readers attention and allow for easy comparision between 2018 and 2019. In order to maintain the focus on the family unit increases, I kept the Unaccompanied Children and Single Adult data in grey but carried the Unaccompanied Child grey color down to the below infograph to maintain the connection between data. The donut visualiation allowed for the clearest visual as well as provided the ability to list year within the donut, where the readers eye was already focusing.
+
+I chose to display the _30% of children..._ info using only 10 icons as this was the simpliest way to display the large data set. Continuing with the diverging color set, I highlighed 30% in organge but maintained the grey from the donut graph above to aid in coherance.
+
+For both visualizations I also took into account print friendly colors as well as being colorblind friendly as graphs maybe widely distributed.
+
+<div class="infogram-embed" data-id="549e5669-8895-4c2f-99e1-c8479cccec16" data-type="interactive" data-title="DHS: Families"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/549e5669-8895-4c2f-99e1-c8479cccec16" style="color:#989898!important;text-decoration:none!important;" target="_blank">DHS: Families</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
+
+
+#### Part 2: Report Version
+
+The aim of this visualization was to provide the reader with a highlighted of urgent information. The audience for this information would be one that needed the most important facts immediatly distilled in clear, easily readable graphs. The goal was to provide context and reference for the information within the report. I pulled the information from the report that seemed to need the most urgent attention - increase in families, overcrowding of holding cells as well as children's health.
+
+I chose Times New Roman for the tile and a sans serif font for the top information to convey seriousness as well as legibility. The first graph is a simple side by side comparison graph. The choice of red and blue was to mirror the report but also to draw immediate attention. The first thing that the viewer sees in the info graph is the red bar displaying the increase in family unit aprehensions in comparison to the previous year. From there the viewers eye can travel down to the statistics of male and female cell overcrowding and shower access for children. The color choices for the imformation below the bar graph were selected so that they do not compete with the most important information but rather build on it. 
+
+After reviewing the infogram checklist, I decided not to include specific numbers on the bar chart as it seemed to overpower and distract from the side by side comparision. 
+
+<div class="infogram-embed" data-id="d4ef7599-841a-4af7-9b5a-4b28a81b5899" data-type="interactive" data-title="OIG DHS Analyst Report Version"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/d4ef7599-841a-4af7-9b5a-4b28a81b5899" style="color:#989898!important;text-decoration:none!important;" target="_blank">OIG DHS Analyst Report Version</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
+
+
+
