@@ -51,7 +51,6 @@ For both visualizations I also took into account print friendly colors as well a
 
 
 
-
 #### Part 2: Report Version
 
 The aim of this visualization was to provide the reader with a highlighted of urgent information. The audience for this information would be one that needed the most important facts immediatly distilled in clear, easily readable graphs. The goal was to provide context and reference for the information within the report. I pulled the information from the report that seemed to need the most urgent attention - increase in families, overcrowding of holding cells as well as children's health.
