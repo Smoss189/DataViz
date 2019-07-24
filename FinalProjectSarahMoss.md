@@ -27,9 +27,9 @@ For better legibility, phone call time of day and length of call have been round
 
 I will use the standard time that my dad and husband arrive home. This will help determine if their anticipated arrival homes changes the time or length of the call.
 
-The data for the precipitation will be pulled from historical weather information on individual call dates. This data can be found here: [Weather Data] (https://www.wunderground.com/history/airport/KBOS?hdf=1). I have specifically chosen to use a Boston weather data set since the phone calls are always to my mom's house phone. Boston weather will directly affect the phone call as it determines if she is at home. 
+The data for the precipitation will be pulled from historical weather information on individual call dates. This data can be found here: <https://www.wunderground.com/history/airport/KBOS?hdf=1>. I have specifically chosen to use a Boston weather data set since the phone calls are always to my mom's house phone. Boston weather will directly affect the phone call as it determines if she is at home. 
 
-For determining dates of my final exams at Heinz, I will use the publically available Heinz Academic Calendar to map the call dates and exam dates.  This will help determine if the call times and dates are related to periods I am studying for exams. The Heinz calendar can be found here: [Heinz Calendar] (https://www.heinz.cmu.edu/heinz-shared/_files/img/current-students/heinz-college-academic-calendar-2018-2019.pdf)
+For determining dates of my final exams at Heinz, I will use the publically available Heinz Academic Calendar to map the call dates and exam dates.  This will help determine if the call times and dates are related to periods I am studying for exams. The Heinz calendar can be found here: <https://www.heinz.cmu.edu/heinz-shared/_files/img/current-students/heinz-college-academic-calendar-2018-2019.pdf >
 
 ## Medium and Method
 
