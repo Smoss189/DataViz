@@ -2,7 +2,7 @@
 # FINAL PROJECT
 
 
-### Outline
+## Outline
 
 ## Summary and Structure
 
@@ -18,6 +18,8 @@ Challenges aside, a measure of success will be if I can discover patterns in the
 ## Inital Sketches
 
 Below is the initial expectations of graphed data. I anticipate that once the data has been compared and graphed, the comparison graphs will change depending on how to best visualize the data to tell the story. 
+
+![image](https://user-images.githubusercontent.com/52640813/61762154-0f52ca00-ad9f-11e9-9139-bd87c36d1833.png)
 
 
 
