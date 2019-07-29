@@ -40,4 +40,22 @@ To complete my final project, I plan on using Shorthand to document the discover
 For the final presentation, I plan to use a final visualization of the conclusions of the data to present my final findings on the best day and time to talk to my mom. 
 
 
+# Wireframing and story boarding
+
+## Moodboard
+
+Colors are calming yet homey, incorporating images and colors that feel calm yet organized. Focuing on the idea that understanding that knowing expected lenght of call time and day can relieve anxiety behind planning, allowing for greater enjoyment of the time spent.
+
+<div
+ class="canva-embed"
+ data-design-id="DADg-fBzMv0"
+ data-height-ratio="0.8000"
+ style="padding:80.0000% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+></div>
+<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADg-fBzMv0&#x2F;view?utm_content=DADg-fBzMv0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">My Moodboard for the Summer of 2020</a> by <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;SarahMoss429?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Sarah Moss</a>
+
+
+
+
 
