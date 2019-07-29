@@ -44,7 +44,7 @@ For the final presentation, I plan to use a final visualization of the conclusio
 
 ## Wireframe
 
-https://balsamiq.cloud/suspta7/pbfi1xz 
+(https://balsamiq.cloud/suspta7/pbfi1xz) 
 
 ## Moodboard
 
