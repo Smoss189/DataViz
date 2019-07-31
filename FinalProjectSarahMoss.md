@@ -58,6 +58,9 @@ After they have looked through the graphics, ask the below follow up questions:
 3.	"What other information would you like to see here? Is there anything doesn’t seem important?"
 4.	"What other questions do you have about this site, if any?"
 
+## Sample Graphs
+
+<div class="infogram-embed" data-id="44f19595-936e-45d1-8662-225eb79afdc3" data-type="interactive" data-title="Average phone call"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/44f19595-936e-45d1-8662-225eb79afdc3" style="color:#989898!important;text-decoration:none!important;" target="_blank">Average phone call</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 ## Wireframe
 
@@ -81,11 +84,14 @@ I chose the below moodboard colors for their calming yet homey feel. The board i
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADg-fBzMv0&#x2F;view?utm_content=DADg-fBzMv0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">My Moodboard for the Summer of 2020</a> by <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;SarahMoss429?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Sarah Moss</a>
 
 
+
 ## Conclusions from User Research
 
 Findings:The interviews helped to refine what the viewer saw. The data visualizations that had the most significant impact where the ones that were simplest and did not mix up different units of measure. All parties identified the same audience and agreed that a similar approach to managing their own time could be useful for events such as homework and time-consuming tasks, like doing laundry or monthly budgets. It could also be used for finding moments through your busy timetable for selfcare.  Overall the box and whisker plot was identified as the most complex graph.  It did not provide the information that the viewer was looking for and distracted them from seeing the data. The same was true of date comparisons. It was suggested that they didn’t care too much about the phone calls in contrast to exam dates as the results would be somewhat predictable.  Given that a Gantt chart was slightly foreign to them, it didn’t convey the results in an easy to read manner. There were no questions about the mood board or wireframe choice. People agreed that the wireframe followed a logical order.
 
 Changes to be made: After completing the user research, I will go back and make sure to simplify my graphs. Despite there being many different ways to display data, by talking to the various interviewees, it was clear that sometimes conventional methods of displaying data can be the simplest as well as the most desired. I will go back and change the graphs so that they are much clearer to read and the data being displayed is much more apparent. For my final visualization, I will create a more straightforward visualization, incorporating calendar days and a visualized calendar on how to choose the best day to talk to my mom stress-free.
+
+
 
 
 
