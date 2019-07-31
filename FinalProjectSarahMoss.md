@@ -44,12 +44,21 @@ For the final presentation, I plan to present a short powerpoint on how to find 
 
 ## User Research
 
-Target Audience: My target audience for this project is fellow students/working professionals who worry about maintaining contact with distance parents while struggling to maintain busy work and school schedules. The goal is to figure out how to plan for and schedule lengthy long-distance phone calls.
+Target Audience: 
 
-Approach to identifying individuals in a survey: As the survey is applicable to both students and working professionals, I identified people in both categories as well as someone who was both.
+My target audience for this project is fellow students/working professionals who worry about maintaining contact with long  distance parents while they balance busy work and school schedules. The goal of the research is to discover if there is a way to plan for and schedule lengthy long-distance phone calls without added stress.
+
+Approach to identifying individuals in a survey:
+
+As the survey is applicable to both students and working professionals, I identified people in both categories as well as someone who was both.
+
+Method:
+
+The interview will last no longer than 10 minutes. Interviewees will be given a printed copy of the graphs, moodboard and layout and be asked to take a look at them without much input from myself. My goal is to get an idea of what is clear and unclear about the data represented and get their opinion on how the data will be read without knowing all of the backstory. Comments will be recorded directly on the print outs as the subject sees fit. Afterwards, I will review their comments and ask followup clarifying questions as noted below.
 
 Script:
-Begin: “I have a printed version of the draft for my final project. It begins with my sample graphs followed by a mood board and then a wireframe of the sample website layout. Imagine you came across an article including these graphs on your google homepage and you clicked on it because it interested you. As you go through the graphs, please put a plus sign next to things you think work well, a minus sign next to things that don’t or you find confusing and a question mark next to something you’d like to find out more information about.”
+
+"I am working on a data visualization project for one of my courses at Heinz College. I would like your input on what I have put together. Here is a printed version of the draft. It begins with my sample graphs followed by a mood board and then a wireframe of the sample website layout. Imagine you came across an article including these graphs on your google homepage and you clicked on it because the topic interested you. As you go through the graphs, please put a plus sign next to things you think work well, a minus sign next to things that don’t or you find confusing and a question mark next to something you’d like to find out more information about.”
 
 Ask follow-up questions as necessary, and respond to any questions with further discussion. 
 After they have looked through the graphics, ask the below follow up questions:
@@ -59,6 +68,7 @@ After they have looked through the graphics, ask the below follow up questions:
 4.	"What other questions do you have about this site, if any?"
 
 ## Sample Graphs
+*some graphs are still in draft status*
 
 <div class="infogram-embed" data-id="44f19595-936e-45d1-8662-225eb79afdc3" data-type="interactive" data-title="Average phone call"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/44f19595-936e-45d1-8662-225eb79afdc3" style="color:#989898!important;text-decoration:none!important;" target="_blank">Average phone call</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
@@ -87,9 +97,13 @@ I chose the below moodboard colors for their calming yet homey feel. The board i
 
 ## Conclusions from User Research
 
-Findings:The interviews helped to refine what the viewer saw. The data visualizations that had the most significant impact where the ones that were simplest and did not mix up different units of measure. All parties identified the same audience and agreed that a similar approach to managing their own time could be useful for events such as homework and time-consuming tasks, like doing laundry or monthly budgets. It could also be used for finding moments through your busy timetable for selfcare.  Overall the box and whisker plot was identified as the most complex graph.  It did not provide the information that the viewer was looking for and distracted them from seeing the data. The same was true of date comparisons. It was suggested that they didn’t care too much about the phone calls in contrast to exam dates as the results would be somewhat predictable.  Given that a Gantt chart was slightly foreign to them, it didn’t convey the results in an easy to read manner. There were no questions about the mood board or wireframe choice. People agreed that the wireframe followed a logical order.
+Findings:
 
-Changes to be made: After completing the user research, I will go back and make sure to simplify my graphs. Despite there being many different ways to display data, by talking to the various interviewees, it was clear that sometimes conventional methods of displaying data can be the simplest as well as the most desired. I will go back and change the graphs so that they are much clearer to read and the data being displayed is much more apparent. For my final visualization, I will create a more straightforward visualization, incorporating calendar days and a visualized calendar on how to choose the best day to talk to my mom stress-free.
+The interviews helped to me to refine what the viewer saw. The data visualizations that had the most significant impact where the ones that were simplest and did not mix up different units of measure. All parties identified the same audience and agreed that a similar approach to managing their own time could be useful for events such as homework and time-consuming tasks, like doing laundry or monthly budgets. It could also be used for finding moments through your busy timetable for selfcare.  Overall the box and whisker plot was identified as the most complex graph.  It did not provide the information that the viewer was looking for and distracted them from seeing the data. The same was true of date comparisons. It was suggested that they didn’t care too much about the phone calls in contrast to exam dates as the results would be somewhat predictable.  Given that a Gantt chart was slightly foreign to them, it didn’t convey the results in an easy to read manner. There were no questions about the mood board or wireframe choice. People agreed that the wireframe followed a logical order.
+
+Changes to be made: 
+
+After completing the user research, I went back and made sure to simplify some of the graphs. As I work through the data, I may make further updates. ify my graphs. Despite there being many different ways to display data, by talking to the various interviewees, it was clear that sometimes conventional methods of displaying data can be the simplest as well as the most desired. I will go back and change the graphs so that they are much clearer to read and the data being displayed is much more apparent. For my final visualization, I will create a more straightforward visualization, incorporating calendar days and a visualized calendar on how to choose the best day to talk to my mom stress-free.
 
 
 
