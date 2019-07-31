@@ -40,11 +40,11 @@ To complete my final project, I plan on using Shorthand to document the discover
 For the final presentation, I plan to use a final visualization of the conclusions of the data to present my final findings on the best day and time to talk to my mom. 
 
 
-# Wireframing and story boarding
+# Wireframing and User Reasearch
 
 ## Wireframe
 
-(https://balsamiq.cloud/suspta7/pbfi1xz) 
+[Source](https://balsamiq.cloud/suspta7/pbfi1xz) 
 
 ## Moodboard
 
