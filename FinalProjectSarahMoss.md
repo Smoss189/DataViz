@@ -40,15 +40,36 @@ To complete my final project, I plan on using Shorthand to document the discover
 For the final presentation, I plan to use a final visualization of the conclusions of the data to present my final findings on the best day and time to talk to my mom. 
 
 
-# Wireframing and User Reasearch
+# User Research and Wireframing
+
+## User Research
+
+Target Audience:
+My target audience for this project is fellow students/working professionals who worry about maintaining contact with distance parents while struggling to maintain busy work and school schedules. The goal is to figure out how to plan for and schedule lengthy long-distance phone calls.
+
+Approach to identifying individuals in a survey:
+As the survey is applicable to both students and working professionals, I identified people in both categories as well as someone who was both.
+
+Script:
+Begin: “I have a printed version of the draft for my final project. It begins with my sample graphs followed by a mood board and then a wireframe of the sample website layout. Imagine you came across an article including these graphs on your google homepage and you clicked on it because it interested you. As you go through the graphs, please put a plus sign next to things you think work well, a minus sign next to things that don’t or you find confusing and a question mark next to something you’d like to find out more information about.”
+
+Ask follow-up questions as necessary, and respond to any questions with further discussion. 
+After they have looked through the graphics, ask the below follow up questions:
+1.	"Who do you think the intended audience is for the site?" 
+2.	“Do you think this information can be applicable to other situations?
+3.	What other information would you like to see here? Is there anything doesn’t seem important?
+4.	"What other questions do you have about this site, if any?"
+
 
 ## Wireframe
+
+![image](https://user-images.githubusercontent.com/52640813/62175036-1bdca280-b30a-11e9-9f8c-fb763af7b4dc.png)
 
 [Source](https://balsamiq.cloud/suspta7/pbfi1xz) 
 
 ## Moodboard
 
-Colors are calming yet homey, incorporating images and colors that feel calm yet organized. Focuing on the idea that understanding that knowing expected lenght of call time and day can relieve anxiety behind planning, allowing for greater enjoyment of the time spent.
+Colors are calming yet homey, incorporating images and colors that feel relaxed but also organized. Focuing on the idea that understanding that knowing expected lenght of call time and day can relieve anxiety behind planning, allowing for greater enjoyment of the time spent.
 
 <div
  class="canva-embed"
@@ -58,6 +79,11 @@ Colors are calming yet homey, incorporating images and colors that feel calm yet
 ></div>
 <script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADg-fBzMv0&#x2F;view?utm_content=DADg-fBzMv0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">My Moodboard for the Summer of 2020</a> by <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;SarahMoss429?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Sarah Moss</a>
+
+
+## User Research
+
+
 
 
 
