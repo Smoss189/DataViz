@@ -80,7 +80,9 @@ To fix these issues, I first decided to change the orientation of the graph. Alt
 [OECD data](https://smoss129.github.io/Moss-Portfolio/OECDdata)
 
 ## Link to Final Project
+
 [Final Project](https://smoss129.github.io/Moss-Portfolio/FinalProjectSarahMoss) 
+
 [Final Project in Shorthand](https://carnegiemellon.shorthandstories.com/Hi_How_are_u_doing/index.html) 
 
 
