@@ -1,14 +1,18 @@
 
-# FINAL PROJECT
+# FINAL PROJECT - "Hi How are u doing?...."
 
+# The Idea:
 
 ## Outline
 
+My final project is structured similar to a 5 paragraph essay. I’ll introduce the viewer to the idea of wanting to find more time to talk to my mom and then as they scroll through the graphs and data they will see the research unfold as I make connections and explore outside factors influencing my call time with my mom.
+
+
 ## Summary and Structure
 
-For my final project, I want to create a visualization model for deciding when is the best time to talk to my mom. As she lives in Boston, we are notorious for chatting for multiple hours. I’m interested in knowing what are the contributing factors that determine the days and lenght of time that we are on the phone. I will be using my personal phone call data and comparing it to various outside influencing factors such as work time and the Heinz College finals schedule.
+For my final project, I want to create a visualization model for deciding when is the best time to talk to my mom. As she lives in Boston, we are notorious for chatting for multiple hours. I’m interested in knowing what are the contributing factors that determine the days and lenght of time that we are on the phone. I will be using my personal phone call data and comparing it to various outside influencing factors such as weather and my dad coming home from work.
 
-The story arc will follow the comparison of various outside factors, and through them, I hope to make discoveries of what influential factors change the date and time of the calls. Initially, I will look at the most common days and times of day. Taking this information, I will compare it to 3 outside factors. The first will be the times that both my husband and my Dad return home. This will help discover if other people in our houses influences the call length or start time. I will then compare the data with weather patterns for Boston. I want to see if rain or snow has any influence over phone calls. The third factor I want to look at is my Heinz College finals schedule. Will the days that I have final exams affect our normal phone call days? 
+The story arc will follow the comparison of various outside factors, and through them, I hope to make discoveries of what influential factors change the date and time of the calls. Initially, I will look at the most common days and times of day. Taking this information, I will compare it to multiple outside factors. The first will be the times that my Dad returns home. This will help discover if other people in our houses influences the call length or start time. I will then compare the data with weather patterns for Boston. I want to see if rain or snow has any influence over phone calls. I will also look at call times in relation to my grad school calendar. 
 
 Some of the challenges of this data could be that the information does not correlate with any of the outside factors and that the call length, time, and day are based on more arbitrary factors. Additionally, as the data will be based on the past year, the results may not apply if any of the conditions change. 
 
@@ -27,7 +31,7 @@ Below is the initial expectations of graphed data. I anticipate that once the da
 My primary source of data is the historical phone call data pulled from my personal phone records from January 2018 – July 2019. This data can be found at the following link: <https://docs.google.com/spreadsheets/d/1pIDd1de13RAsIVmHXbe5wvwMPLnILW1beU5tO1uUd1E/edit?usp=sharing>
 For better legibility, phone call time of day and length of call have been rounded to extract a better understanding of standard times and length of time.  
 
-I will use the standard time that my dad and husband arrive home. This will help determine if their anticipated arrival homes changes the time or length of the call.
+I will use the standard time that my dad arrives home. This will help determine if their anticipated arrival homes changes the time or length of the call.
 
 The data for the precipitation will be pulled from historical weather information on individual call dates. This data can be found here: <https://www.wunderground.com/history/airport/KBOS?hdf=1>. I have specifically chosen to use a Boston weather data set since the phone calls are always to my mom's house phone. Boston weather will directly affect the phone call as it determines if she is at home. 
 
@@ -37,10 +41,10 @@ For determining dates of my final exams at Heinz, I will use the publically avai
 
 To complete my final project, I plan on using Shorthand to document the discovery of the conclusions made by the data. By following the steps outlined in my sketch above, I aim to lead the reader through the story of discovery by incorporating relevant graphics and info graphs. The aim is that the viewer will be able to follow along easily in the exploration of trends and comparisons so that they too can make the same conclusions from the data. 
 
-For the final presentation, I plan to present a short powerpoint on how to find the best best day and time to talk to my mom. 
+For the final presentation, I plan to present using key elements of my Shorthand presentation. 
 
 
-# User Research and Wireframing
+# User Research and Design
 
 ## User Research
 
@@ -68,7 +72,7 @@ After they have looked through the graphics, ask the below follow up questions:
 4.	"What other questions do you have about this site, if any?"
 
 ## Sample Graphs
-*some graphs are still in draft status*
+The below graphs were used to explain concept to interviewees
 
 <div class="infogram-embed" data-id="44f19595-936e-45d1-8662-225eb79afdc3" data-type="interactive" data-title="Average phone call"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/44f19595-936e-45d1-8662-225eb79afdc3" style="color:#989898!important;text-decoration:none!important;" target="_blank">Average phone call</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
@@ -94,16 +98,29 @@ I chose the below moodboard colors for their calming yet homey feel. The board i
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADg-fBzMv0&#x2F;view?utm_content=DADg-fBzMv0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">My Moodboard for the Summer of 2020</a> by <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;SarahMoss429?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Sarah Moss</a>
 
 
+# Final Data Story
 
-## Conclusions from User Research
+## User Research Findings and Conclusions 
 
-Findings:
+Target Audience:
 
-The interviews helped to me to refine what the viewer saw. The data visualizations that had the most significant impact where the ones that were simplest and did not mix up different units of measure. All parties identified the same audience and agreed that a similar approach to managing their own time could be useful for events such as homework and time-consuming tasks, like doing laundry or monthly budgets. It could also be used for finding moments through your busy timetable for selfcare.  Overall the box and whisker plot was identified as the most complex graph.  It did not provide the information that the viewer was looking for and distracted them from seeing the data. The same was true of date comparisons. It was suggested that they didn’t care too much about the phone calls in contrast to exam dates as the results would be somewhat predictable.  Given that a Gantt chart was slightly foreign to them, it didn’t convey the results in an easy to read manner. There were no questions about the mood board or wireframe choice. People agreed that the wireframe followed a logical order.
+Although intially identified as being targeted towards fellow students and working professionals, I found that the audience for the project was of interest to a much broader range of people who lived far from loved ones and wished they could make more time for catching up either by phone or in person. I was surprised by the responce the project mentioned wanting to do a similar experiment. 
 
-Changes to be made: 
+To make it work for this audience I broadened my comparison factors. By taking away the comparison of the exams and including time between calls, it made the project greater reaching. 
 
-After completing the user research, I went back and made sure to simplify some of the graphs. As I work through the data, I may make further updates. ify my graphs. Despite there being many different ways to display data, by talking to the various interviewees, it was clear that sometimes conventional methods of displaying data can be the simplest as well as the most desired. I will go back and change the graphs so that they are much clearer to read and the data being displayed is much more apparent. For my final visualization, I will create a more straightforward visualization, incorporating calendar days and a visualized calendar on how to choose the best day to talk to my mom stress-free.
+Feedback Findings:
+
+The interviews helped to me to refine what the viewer saw. The data visualizations that had the most significant impact where the ones that were simplest and did not mix different units of measure. All parties identified the same audience and agreed that a similar approach to managing their own time could be useful for events such as homework and time-consuming tasks, like doing laundry or monthly budgets. It could also be used for finding moments through your busy timetable for selfcare.  Overall the box and whisker plot was identified as the most complex graph.  It did not provide the information that the viewer was looking for and distracted them from seeing the data. The same was true of date comparisons. It was suggested that they didn’t care too much about the phone calls in contrast to exam dates as the results would be somewhat predictable. Some feedback also mentioned an interest in seeing time between phone calls. Given that a Gantt chart was slightly foreign to them, it didn’t convey the results in an easy to read manner. There were no questions about the mood board or wireframe choice. People agreed that the wireframe followed a logical order.
+
+Changes made: 
+
+After completing the user research, I simplified graphs and visual elements. I also decided to take out the connection to exam dates as it did not add to the story, and the feedback from users suggested it was predictable. I added a comparison to the length of time between calls graph. Initially, I was going to use data from the entire data set, but I decided to simplify the set and focus only on data that would inform the upcoming semester. For my final visualization, I created a data-driven calendar in the form of a bubble chart. The chart includes additional design elements that help show days that I am busy or have evening classes. To make the final visualization familiar to the reader before seeing it, I incorporated elements of the graph throughout Shorthand as icons. This helped to connect the research to the final visualization as well as be familiar to the viewer's eye.
+
+Design Conclusions:
+
+Along the way, it was essential to keep the mood board in mind as it helped maintain a focus when choosing themes and graphics for the Shorthand presentation. It was a challenge to maintain a story throughout without getting distracted by other non-important elements. For my final visualization, I initially included a lot of elements which were true to my actual calendar, but I found that simplifying it to a sample month created a stronger image overall. I was surprise that by including references to the final calendar visualization throughout the story helped to connect all the data together.  Throughout the project, it became clear that the simpler, the better; however, the challenge was to maintain the integrity of the data.
+
+
 
 
 
