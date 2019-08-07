@@ -124,6 +124,11 @@ Along the way, it was essential to keep the mood board in mind as it helped main
 [Final Project- Hi How are u doing?... ](https://carnegiemellon.shorthandstories.com/Hi_How_are_u_doing/index.html)
 
 
+## Link back to Portfolio Info Page
+
+[Portfolio Info Page](https://smoss129.github.io/Moss-Portfolio/) 
+
+
 
 
 
