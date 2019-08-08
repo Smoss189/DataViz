@@ -120,13 +120,13 @@ Design Conclusions:
 
 Along the way, it was essential to keep the mood board in mind as it helped maintain a focus when choosing themes and graphics for the Shorthand presentation. It was a challenge to maintain a story throughout without getting distracted by other non-important elements. For my final visualization, I initially included a lot of elements which were true to my actual calendar, but I found that simplifying it to a sample month created a stronger image overall. I was surprise that by including references to the final calendar visualization throughout the story helped to connect all the data together.  Throughout the project, it became clear that the simpler, the better; however, the challenge was to maintain the integrity of the data.
 
-## Link to Final Project in Shorthand
-[Final Project- Hi How are u doing?... ](https://carnegiemellon.shorthandstories.com/Hi_How_are_u_doing/index.html)
+# Link to Final Project in Shorthand
+[Shorthand Final Project:  Hi How are u doing?... ](https://carnegiemellon.shorthandstories.com/Hi_How_are_u_doing/index.html)
 
 
-## Link back to Portfolio Info Page
+## Link Back to About Me Github Page
 
-[Portfolio Info Page](https://smoss129.github.io/Moss-Portfolio/) 
+[Github About Me/README Page](https://smoss129.github.io/Moss-Portfolio/) 
 
 
 
