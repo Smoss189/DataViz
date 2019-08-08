@@ -81,9 +81,9 @@ To fix these issues, I first decided to change the orientation of the graph. Alt
 
 ## Link to Final Project
 
-[Final Project](https://smoss129.github.io/Moss-Portfolio/FinalProjectSarahMoss) 
+[Github Final Project Outline](https://smoss129.github.io/Moss-Portfolio/FinalProjectSarahMoss) 
 
-[Final Project in Shorthand](https://carnegiemellon.shorthandstories.com/Hi_How_are_u_doing/index.html) 
+[Shorthand Final Project Page](https://carnegiemellon.shorthandstories.com/Hi_How_are_u_doing/index.html) 
 
 
 
